@@ -7,8 +7,8 @@ vmess://eyJhZGQiOiI2NS4xMDkuMTc4LjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyU2VZY2lnX1hCeThxM2szM05wSzNB@65.109.178.10:1080#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_7🤿
 vless://5c5f21f2-8527-4d45-95d0-0c72871d22e7@4.185.112.1:2064?security=&encryption=none&headerType=none&type=tcp#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_8🤿
 vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_9🤿
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_10🤿
-trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_11🤿
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@͟𝘼𝙢𝙞𝙧𝙧𝙘𝙧_𝟳_10🤿
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@͟𝘼𝙢𝙞𝙧𝙧𝙘𝙧_𝟳_11🤿
 vless://8975546a-375c-4966-8064-19fc0f66f30a@31.76.80.69:2083?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22mode%22%3A%22auto%22%7D&pbk=zq3gOJkXi6laNuxMohL3lr-wFOKi4Z9oG7QuMMiTDAk&fp=firefox&spx=%2Fy52f8gp4rv1il6u&type=xhttp&sni=www.amd.com&sid=29b21343ab4d#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_12🤿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw%3D@188.116.23.244:8388#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_13🤿
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#@͟𝙏𝙐𝙉𝙉𝙀𝙇𝘾𝙍𝟳_14🤿
